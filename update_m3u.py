@@ -48,7 +48,7 @@ def update_github_repo(file_name, content, repo_name, token, commit_message="Upd
 
 def main():
     GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
-    REPO_NAME = "kullanici_adi/repo_adi"  # GitHub kullanıcı adı ve repo adı
+    REPO_NAME = "arapturk/JDidvolo"  # GitHub kullanıcı adı ve repo adı
 
     for country, url in countries.items():
         m3u_content = fetch_m3u(url)
