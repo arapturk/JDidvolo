@@ -4,9 +4,9 @@ from github import Github
 
 # Örnek ülkeler ve M3U listesi URL'leri (gerçek URL'leri kendi kaynaklarınıza göre güncelleyin)
 countries = {
-    "turkey": "https://example.com/turkey.m3u",
-    "usa": "https://example.com/usa.m3u",
-    "germany": "https://example.com/germany.m3u",
+    "turkey": "https://vavoo.to/turkey.m3u",
+    "usa": "https://vavoo.to/usa.m3u",
+    "germany": "https://vavpo.to/germany.m3u",
     # Diğer ülkeler ekleyin...
 }
 
