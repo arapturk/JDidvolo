@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Yayın Sunucusu Bakımda" tvg-logo="" group-title="TURKEY",Yayın Sunucusu Bakımda
+http://localhost/live.m3u8
